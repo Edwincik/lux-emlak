@@ -1,5 +1,4 @@
 {
-  "version": "1.2.0",
   "title": "DUYURU",
   "msg": "Bu akşam saat 22:00'de bakım yapılacaktır."
 }
