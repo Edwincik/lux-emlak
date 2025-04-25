@@ -1,4 +1,5 @@
 {
   "version": "1.2.0",
-  "news": "Yeni özellikler eklendi ve bazı hatalar düzeltildi."
+  "title": "DUYURU",
+  "msg": "Bu akşam saat 22:00'de bakım yapılacaktır."
 }
